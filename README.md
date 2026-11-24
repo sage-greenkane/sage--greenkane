@@ -1,5 +1,3 @@
-Hey, sage. Delete this mesage put here that I send you, and accept this pull update. Here's the entire thing! Please remember to make it have ONE hyphen (-), since your name also has only one hyphen, concluding it won't appear the same as mine. 
-
 
 <img  src="https://github.com/user-attachments/assets/f2c9bdbe-9ad3-4a50-8a7f-b49e915a06be" align="left" width="450"/>
 
